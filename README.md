@@ -1,3 +1,4 @@
 # web-developer
-this is my first repository
-author Dinesh talaviya
+this is my first repository.
+<br>
+author-Dinesh talaviya
